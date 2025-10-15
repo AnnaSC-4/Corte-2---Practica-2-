@@ -1,2 +1,4 @@
-# Corte-2---Practica-2-
-Respositorio de la practica 2
+# Soluciones de Problemas de LeetCode
+
+Este repositorio contiene soluciones a los problemas de LeetCode implementadas en C++.
+
